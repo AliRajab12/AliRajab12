@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg" title="Nuget" **alt="Nuget" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="opencv" **alt="opencv" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" title="aws" **alt="aws" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
