@@ -2,7 +2,7 @@
 - 👀 I’m interested in making people's life easier using the software.
 - 🌱 I’m currently learning mobile app development using Flutter framework, with some attention to architecting apps on AWS cloud.
 - 💞️ I’m looking to collaborate on different projects that cover variants aspects of software development
-- 📫 You can reach me either on Linkedin https://www.linkedin.com/in/ali-rajab or directly at alirajab.dev@gmail.com
+- 📫 You can reach me either on [Linkedin](www.linkedin.com/in/ali-rajab-b2622b31b)  or directly at alirajab.dev@gmail.com
 
 <!---
 AliRajab12/AliRajab12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
