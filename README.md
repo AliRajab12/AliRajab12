@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Rajab
-- 👀 I’m interested in software development (Web & Android)
-- 🌱 I’m currently learning mobile app development using Flutter
+- 👀 I’m interested in making people's life easier using the software.
+- 🌱 I’m currently learning mobile app development using Flutter framework, with some attention to architecting apps on AWS cloud.
 - 💞️ I’m looking to collaborate on different projects that cover variants aspects of software development
 - 📫 You can reach me either on Linkedin https://www.linkedin.com/in/ali-rajab or directly at alirajab.dev@gmail.com
 
@@ -10,15 +10,15 @@ You can click the Preview link to take a look at your changes.
 --->
 <h3>Socials</h3>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ali-rajab/">
+  <a href="https://www.linkedin.com/in/ali-rajab-b2622b31b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCylSYKlytHAU74im-tQYXbQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/AliRaja52429548">
+<!--   <a href="https://twitter.com/AliRaja52429548">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
 
